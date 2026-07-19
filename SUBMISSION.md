@@ -14,9 +14,9 @@
 
 **Code repository:** https://github.com/anshuman542018/reflex
 
-**Public YouTube demo:** `TO_BE_ADDED_AFTER_VIDEO_UPLOAD`
+**Public YouTube demo:** https://youtu.be/eE2NNWRwgy8
 
-**Primary Codex /feedback Session ID:** `TO_BE_ADDED_FROM_PRIMARY_BUILD_TASK`
+**Primary Codex /feedback Session ID:** `019f7961-a57b-7760-ad2c-a5201526226d`
 
 ## Project description
 
@@ -145,10 +145,10 @@ End on the mistakes-prevented counter and social card.
 - [x] Add the deployed live URL.
 - [x] Publish the repository and add its URL.
 - [x] Add the MIT license and verify no secrets are tracked.
-- [ ] Record the working product with English voiceover, under 3 minutes.
-- [ ] Upload the demo publicly to YouTube and add its URL.
-- [ ] Run `/feedback` in the primary Codex build task and add the Session ID.
-- [ ] Choose **Developer tools**.
+- [x] Record the working product with English voiceover, under 3 minutes.
+- [x] Upload the demo publicly to YouTube and add its URL.
+- [x] Add the primary Codex build task Session ID.
+- [x] Choose **Developer tools**.
 - [ ] Confirm eligibility and accept the official rules personally.
 - [ ] Save a Devpost draft before final submission.
 - [ ] Re-run the hosted demo from reset immediately before submitting.
