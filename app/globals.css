@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
 :root {
+  --font-geist-sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-geist-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
   --bg: #07080b;
   --bg-elevated: #0c0e13;
   --panel: #101218;
@@ -39,7 +41,7 @@ body {
 
 body {
   overflow-x: hidden;
-  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans);
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
 }
