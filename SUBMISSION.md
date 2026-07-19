@@ -10,9 +10,9 @@
 
 **One-liner:** Reflex turns one coding-agent correction into a verified regression eval, a permanent `AGENTS.md` rule, and a reusable Codex Skill so the mistake is not repeated in a fresh session.
 
-**Live demo:** `TO_BE_ADDED_AFTER_DEPLOYMENT`
+**Live demo:** https://reflex-agent-memory.rajeevpandeylko-rp.chatgpt.site
 
-**Code repository:** `TO_BE_ADDED_AFTER_GITHUB_PUBLISH`
+**Code repository:** https://github.com/anshuman542018/reflex
 
 **Public YouTube demo:** `TO_BE_ADDED_AFTER_VIDEO_UPLOAD`
 
@@ -142,9 +142,9 @@ End on the mistakes-prevented counter and social card.
 
 ## Submission checklist
 
-- [ ] Add the deployed live URL.
-- [ ] Publish the repository and add its URL.
-- [ ] Add the MIT license and verify no secrets are tracked.
+- [x] Add the deployed live URL.
+- [x] Publish the repository and add its URL.
+- [x] Add the MIT license and verify no secrets are tracked.
 - [ ] Record the working product with English voiceover, under 3 minutes.
 - [ ] Upload the demo publicly to YouTube and add its URL.
 - [ ] Run `/feedback` in the primary Codex build task and add the Session ID.

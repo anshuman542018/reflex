@@ -6,6 +6,8 @@ Reflex is the verified memory layer for coding agents. A developer corrects an a
 
 Built for the **OpenAI Build Week 2026 — Developer Tools** track with Codex and GPT-5.6 Sol.
 
+**[Launch the live demo](https://reflex-agent-memory.rajeevpandeylko-rp.chatgpt.site)** · **[View the source](https://github.com/anshuman542018/reflex)**
+
 ![Reflex social preview](public/og.png)
 
 ## Judge-friendly demo
